@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'teko-regular';
+   font-display: swap;
+   src: url('teko-regular/font.ttf');
+}
+@font-face {
+   font-family: 'teko-light';
+   font-display: swap;
+   src: url('teko-light/font.ttf');
+}
+@font-face {
+   font-family: 'teko-medium';
+   font-display: swap;
+   src: url('teko-medium/font.ttf');
+}
